@@ -1,2 +1,2 @@
 # testrepo
-I'm editiong the readme file
+I'm editing the readme file
